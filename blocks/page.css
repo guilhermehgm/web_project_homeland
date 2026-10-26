@@ -17,7 +17,7 @@ body {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .page {
     margin: 0 auto;
   }
